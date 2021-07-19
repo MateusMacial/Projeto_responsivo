@@ -1,2 +1,2 @@
-# projeto_responsivo
+# Projeto_responsivo
  Projeto responsivo do curso na Udemy.
